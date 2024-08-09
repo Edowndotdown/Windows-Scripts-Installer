@@ -9,10 +9,15 @@ Get ready for Windows Script Installer!
   
   Some features WSI will ship with;
     * Script inegrity checking
+    
     * Quick .exe and .wsi creation
+   
     * SDK for developers including download URL to .wsi and .exe creation 
+    
     * Zero third party dependencies
+    
     * Great User Interface
+   
     * Written directly in batch file
 
 # Beta Screenshots 
