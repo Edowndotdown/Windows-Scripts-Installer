@@ -8,6 +8,7 @@ Get ready for Windows Script Installer!
   WSI has a large number of features specifically made to ease the development of setup programs for small developers. 
   
   Some features WSI will ship with;
+    
     * Script inegrity checking
     
     * Quick .exe and .wsi creation
