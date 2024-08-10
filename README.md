@@ -28,7 +28,6 @@ Get ready for Windows Script Installer!
 
  ![image](https://github.com/user-attachments/assets/1eee6d04-b93e-4b3c-8a65-8cf36e8053d8)
 
-![image](https://github.com/user-attachments/assets/04395c43-08d9-4092-8337-5b405bf6dd73)
 
 
 
