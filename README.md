@@ -12,7 +12,9 @@ Get ready for Windows Script Installer!
     * Script inegrity checking
     
     * Quick .exe and .wsi creation
-   
+
+    * Update management and installation for wsi programs
+
     * SDK for developers including download URL to .wsi and .exe creation 
     
     * Zero third party dependencies
@@ -23,6 +25,8 @@ Get ready for Windows Script Installer!
 
 # Beta Screenshots 
 ``` Subject to change ```
+EARLY BUILD - This build is not meant to be used in any professional enviroment / deployment.
+
 
  ![image](https://github.com/user-attachments/assets/73335cda-1468-44e6-9860-fdae0e500be7)
 
