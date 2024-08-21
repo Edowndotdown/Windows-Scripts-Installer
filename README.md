@@ -26,13 +26,15 @@ Get ready for Windows Script Installer!
 # Beta Screenshots 
 ``` Subject to change ```
 EARLY BUILD - This build is not meant to be used in any professional enviroment / deployment.
-### Full release this fall
+### Full release coming in December
 
  ![image](https://github.com/user-attachments/assets/73335cda-1468-44e6-9860-fdae0e500be7)
 
  ![image](https://github.com/user-attachments/assets/1eee6d04-b93e-4b3c-8a65-8cf36e8053d8)
 
-
+# And much more
+ With WSI on the horizon, users can expect 
+ new, innovative apps to launch with it!
 
 
 
