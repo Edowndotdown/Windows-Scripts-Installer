@@ -26,7 +26,7 @@ Get ready for Windows Script Installer!
 # Beta Screenshots 
 ``` Subject to change ```
 EARLY BUILD - This build is not meant to be used in any professional enviroment / deployment.
-### Betas release every 2 weeks
+### Full release this fall
 
  ![image](https://github.com/user-attachments/assets/73335cda-1468-44e6-9860-fdae0e500be7)
 
