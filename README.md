@@ -9,7 +9,7 @@ Get ready for Windows Script Installer!
   
   Some features WSI will ship with;
     
-    * Script inegrity checking
+    * Script integrity checking
     
     * Quick .exe and .wsi creation
 
